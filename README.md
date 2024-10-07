@@ -1,6 +1,6 @@
 # OOP and TS - Interfaces Exercise
 
-Complete the 7 exercises by solving each problem, filling in the missing code, and adding types to the parameters and returned value of each function.
+Complete the 8 exercises by solving each problem, filling in the missing code, and adding types to the parameters and returned value of each function.
 
 ## Instructions
 
