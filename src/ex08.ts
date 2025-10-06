@@ -1,4 +1,4 @@
-// Exercise 8: Optional Chaining
+// Exercise 7: Optional Chaining
 // Create an interface for a "House" object with a nested "address" object that includes an optional "city" (string).
 // Use optional chaining to safely access the "city" and log it to the console.
 
